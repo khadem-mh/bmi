@@ -23,7 +23,7 @@
 
 <img src="./Video/bmi.gif" width="550px"/>
 
-check this [URL](https://khadem-mh.github.io/digitalClock/) for visit this page
+check this [URL](https://khadem-mh.github.io/bmi/) for visit this page
 
 ___
 >### Social Network
