@@ -4,11 +4,13 @@
  <p align="center"> React Js expert and FrontEnd Developer from Iran.</p>
 
 ## Descripton Mini-Project
-- A statistical measure is used to compare a person's weight and height. In fact, this measure does not measure the rate of obesity,
+- A statistical measure is used to compare a person's weight and height.
+ 
+  In fact, this measure does not measure the rate of obesity
 
-   but rather is an appropriate tool to estimate the health of a person's weight according to their height. The
-
-   index was developed between 1830 and 1850 by the Belgian scientist Adolf Kottel.
+  but rather is an appropriate tool to estimate the health of a person's weight according to their height.
+  
+  Theindex was developed between 1830 and 1850 by the Belgian scientist Adolf Kottel.
 
 - Made with ♥
 
