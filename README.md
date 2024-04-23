@@ -21,7 +21,7 @@
 
 ## View of the  Mini-project
 
-<img src="./Video/bmi.gif" width="420px"/>
+<img src="./Video/bmi.gif" width="550px"/>
 
 check this [URL](https://khadem-mh.github.io/digitalClock/) for visit this page
 
