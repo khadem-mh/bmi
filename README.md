@@ -4,13 +4,13 @@
  <p align="center"> React Js expert and FrontEnd Developer from Iran.</p>
 
 ## Descripton Mini-Project
-- Create a beautiful and very useful form on login and register pages and ... React JS. 
+- A statistical measure is used to compare a person's weight and height. In fact, this measure does not measure the rate of obesity,
 
-- Fully optimized and cleanly programmed, and the principle of being a base component in this project is respected. 
+   but rather is an appropriate tool to estimate the health of a person's weight according to their height. The
 
-- This way, you no longer need to validate the server-side validation, which means that you are following the DRY (Don Repeat Yourself) rule.
+   index was developed between 1830 and 1850 by the Belgian scientist Adolf Kottel.
 
-- This form is very flexible in terms of customization.
+- Made with ♥
 
 >### Languages
 >> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=F77F1A&random=false&width=55&height=25&lines=Html5)
