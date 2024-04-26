@@ -3,7 +3,7 @@
 # <p align="center"> Hi there 👋 I'm Mohammad Hossein 👨‍💻 </p>
  <p align="center"> React Js expert and FrontEnd Developer from Iran.</p>
 
-## Descripton Mini-Project
+## Description Mini-Project
 - A statistical measure is used to compare a person's weight and height.
  
   In fact, this measure does not measure the rate of obesity
